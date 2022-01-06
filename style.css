@@ -148,6 +148,18 @@ span{
     height: 500px;
 
 }
+.footer-area{
+    background-color: black;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+}
+.footer-area p{
+    text-align: center;
+    color: white;
+
+}
 
 .four-section{
     margin-top: 80px;
